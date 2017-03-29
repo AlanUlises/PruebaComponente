@@ -1,0 +1,10 @@
+c:\users\20110668\documents\visual studio 2015\Projects\PruebaComponente\PruebaComponente\bin\Debug\PruebaComponente.exe.config
+C:\Users\20110668\Documents\Visual Studio 2015\Projects\PruebaComponente\PruebaComponente\bin\Debug\PruebaComponente.exe
+C:\Users\20110668\Documents\Visual Studio 2015\Projects\PruebaComponente\PruebaComponente\bin\Debug\PruebaComponente.pdb
+C:\Users\20110668\Documents\Visual Studio 2015\Projects\PruebaComponente\PruebaComponente\bin\Debug\ProyectoPruebas.dll
+C:\Users\20110668\Documents\Visual Studio 2015\Projects\PruebaComponente\PruebaComponente\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\20110668\Documents\Visual Studio 2015\Projects\PruebaComponente\PruebaComponente\bin\Debug\ProyectoPruebas.pdb
+C:\Users\20110668\Documents\Visual Studio 2015\Projects\PruebaComponente\PruebaComponente\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\20110668\Documents\Visual Studio 2015\Projects\PruebaComponente\PruebaComponente\obj\Debug\PruebaComponente.csprojResolveAssemblyReference.cache
+C:\Users\20110668\Documents\Visual Studio 2015\Projects\PruebaComponente\PruebaComponente\obj\Debug\PruebaComponente.exe
+C:\Users\20110668\Documents\Visual Studio 2015\Projects\PruebaComponente\PruebaComponente\obj\Debug\PruebaComponente.pdb
